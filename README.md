@@ -15,5 +15,6 @@
     <a href="#" class="button">Inbox</a>
     <a href="#" class="button">Account</a>
     <a href="#" class="button">Logout</a>
+    <button type="button" class="btn btn-secondary">Secondary</button>
 </div>
 <a href="#" class="button icon search">Search</a>
