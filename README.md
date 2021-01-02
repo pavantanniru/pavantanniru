@@ -9,10 +9,9 @@
 - 💬 Ask me about Python,MachineLearning
 - 📫 How to reach me: pa1tanniru1999@gmail.com
 - ⚡ Fun fact: Dribbling wasn't allowed # Basketball Player..🏀
-   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-<div class="button-group minor-group">
-    <a href="#" class="button primary">Dashboard</a>
-    <a href="#" class="button">Inbox</a>
+   
+    <a href="https://twitter.com/TanniruPavan" class="button primary"></a>
+    <a href="pa1tanniru1999@gmai.com" class="button">Mail</a>
     <a href="#" class="button">Account</a>
     <a href="#" class="button">Logout</a>
     <button type="button" class="btn btn-secondary">Secondary</button>
