@@ -1,4 +1,6 @@
-###                                                 <h1 style=text-align='center>Hi there ! 👋  I'm Pavan tanniru </h1>
+###         <h1 style="text-align:center;"> Hi there ! 👋  I'm Pavan tanniru </h1>
+
+            
 
 
 - 🔭 I’m currently working on Machine Learning and DeepLearning😎 🦾
