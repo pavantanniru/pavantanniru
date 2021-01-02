@@ -1,6 +1,6 @@
-###                                                 Hi there ! 👋  I'm Pavan tanniru 
+###                                                 <h1>Hi there ! 👋  I'm Pavan tanniru </h1>
 
-<h1>Hello there !</h1>
+
 - 🔭 I’m currently working on Machine Learning and DeepLearning😎 🦾
 - 🌱 I’m currently learning Web Technologies😜
 - 👯 I’m looking to collaborate on Deeplearning
