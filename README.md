@@ -10,7 +10,7 @@
 - 📫 How to reach me: pa1tanniru1999@gmail.com
 - ⚡ Fun fact: Dribbling wasn't allowed # Basketball Player..🏀
 
-<!DOCTYPE html>
+###  <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
