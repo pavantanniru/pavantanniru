@@ -23,6 +23,8 @@
     
     <a href="https://www.linkedin.com/in/pavan-tanniru-59ab281a5/" class="button icon search">Linkedin</a>
     
+    <button type="button" onclick="alert('Hello world!')">Click Me!</button>
+    
     
     <br>
 
