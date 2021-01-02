@@ -9,15 +9,21 @@
 - 💬 Ask me about Python,MachineLearning
 - 📫 How to reach me: pa1tanniru1999@gmail.com
 - ⚡ Fun fact: Dribbling wasn't allowed # Basketball Player..🏀
+
+
+<h1>How to reach me </h1>
    
     <a href="https://twitter.com/TanniruPavan" class="button primary">Twitter</a>
     <br>
     
+    
     <a href="https://www.instagram.com/___.pavan.__/" class="button">Instagram</a>
     <br>
+    
+    
     <a href="https://www.linkedin.com/in/pavan-tanniru-59ab281a5/" class="button icon search">Linkedin</a>
     
-    <button type="button" onclick="alert('Hello world!')">Click Me!</button>
+    
     <br>
 
 
