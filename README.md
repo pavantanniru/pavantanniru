@@ -11,9 +11,9 @@
 - ⚡ Fun fact: Dribbling wasn't allowed # Basketball Player..🏀
    
     <a href="https://twitter.com/TanniruPavan" class="button primary">Twitter</a>
-    <a href="pa1tanniru1999@gmail.com" class="button">Mail</a>
-    <a href="#" class="button">Account</a>
-    <a href="#" class="button">Logout</a>
-    <button type="button" class="btn btn-secondary">Secondary</button>
+    
+    <a href="https://www.instagram.com/___.pavan.__/" class="button">Account</a>
+    
+    <button type="button"  class="btn btn-secondary">Linkedin</button>
 
-<a href="#" class="button icon search">Search</a>
+<a href="https://www.linkedin.com/in/pavan-tanniru-59ab281a5/" class="button icon search">Linkedin</a>
