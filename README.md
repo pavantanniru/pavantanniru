@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Machine Learning and DeepLearning😎 🦾
-- 🌱 I’m currently learning Web Technologies😜
+- 🌱 I’m currently learning Web Technologies😜,PySpark.🎭
 - 👯 I’m looking to collaborate on Deeplearning
 - 💬 Ask me about Python,MachineLearning
 - 📫 How to reach me: pa1tanniru1999@gmail.com
