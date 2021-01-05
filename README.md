@@ -54,12 +54,12 @@
     <label>Password:</label>
     <input type="password" name="" value="">
 
-    <p>Are u age over 18 ?</p>
-    <label>yes</label>
-    <input  type="checkbox" name="" value="">
-    <label>No</label>
-    <input type="checkbox" name="" value="">
-    <br>
+   <p>Are u age over 18 ?</p>
+   <label>yes</label>
+   <input  type="checkbox" name="" value="">
+   <label>No</label>
+   <input type="checkbox" name="" value="">
+   <br>
 
 
   </form>
