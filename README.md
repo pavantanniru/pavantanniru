@@ -15,11 +15,11 @@
             
        
    
-    <a href="https://twitter.com/TanniruPavan" class="button primary">![Twitter](https://github.com/pavantanniru/pavantanniru/blob/main/twitter.png?raw=true)</a>
+    <a href="https://twitter.com/TanniruPavan" class="button primary">![Twitter](https://github.com/pavantanniru/pavantanniru/blob/main/circle-cropped%20(7).png?raw=true)</a>
     <br>
     
     
-    <a href="https://www.instagram.com/___.pavan.__/" class="button">Instagram</a>
+    <a href="https://www.instagram.com/___.pavan.__/" class="button">![Insta](https://raw.githubusercontent.com/pavantanniru/pavantanniru/main/circle-cropped%20(6).png)</a>
     <br>
     
     
