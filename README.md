@@ -28,8 +28,4 @@
     
     <br>
     
-     ### Tech Stack  
-    
-    
-    ![Deep_learning](https://github.com/pavantanniru/pavantanniru/blob/main/circle-cropped%20(3).png?raw=true) 
-    ![python](https://github.com/pavantanniru/pavantanniru/blob/main/circle-cropped%20(4).png?raw=true)
+     ### Tech Stack 
