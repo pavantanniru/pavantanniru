@@ -29,5 +29,6 @@
     
     <br>
     
-    Tech Stack 
+     ### Tech Stack  
+    
     ![machine learning](https://miro.medium.com/max/2560/1*cG6U1qstYDijh9bPL42e-Q.jpeg)
