@@ -31,4 +31,5 @@
     
      ### Tech Stack  
     
-    ![machine learning](https://miro.medium.com/max/2560/1*cG6U1qstYDijh9bPL42e-Q.jpeg)
+    
+    ![Deep_learning](https://github.com/pavantanniru/pavantanniru/blob/main/circle-cropped%20(3).png?raw=true)
