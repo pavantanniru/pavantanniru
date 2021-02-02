@@ -1,6 +1,6 @@
 ###         <h1 style="text-align:center;"> Hi there ! 👋  I'm Pavan tanniru </h1>
 
-   ![](https://komarev.com/ghpvc/?username=pavantanniru)
+   ![](https://komarev.com/ghpvc/?username=harshacasper)
 
 
 - 🔭 I’m currently working on Machine Learning and DeepLearning😎 🦾
