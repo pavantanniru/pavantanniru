@@ -19,6 +19,7 @@
     <a href="https://twitter.com/TanniruPavan" class="button primary">![Twitter](https://github.com/pavantanniru/pavantanniru/blob/main/circle-cropped%20(7).png?raw=true)</a>  <a href="https://www.instagram.com/___.pavan.__/" class="button">![Insta](https://raw.githubusercontent.com/pavantanniru/pavantanniru/main/circle-cropped%20(6).png)</a>  <a href="https://www.linkedin.com/in/pavan-tanniru-59ab281a5/" class="button icon search">![Linkdn](https://github.com/pavantanniru/pavantanniru/blob/main/circle-cropped%20(8).png?raw=true)</a>
     
    
+    ![pavan_tanniru_status](https://github-readme-stats.vercel.app/api?username=pavantanniru)
     
     [![most_lang_used](https://github-readme-stats.vercel.app/api/top-langs/?username=pavantanniru)](https://github.com/pavantanniru/github-readme-stats)
     
