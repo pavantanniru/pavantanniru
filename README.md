@@ -21,7 +21,7 @@
    
     ![pavan_tanniru_status](https://github-readme-stats.vercel.app/api?username=pavantanniru)
     
-    [![most_lang_used](https://github-readme-stats.vercel.app/api/top-langs/?username=pavantanniru)](https://github.com/pavantanniru/github-readme-stats)
+    
     
     
     
