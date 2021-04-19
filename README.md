@@ -20,6 +20,7 @@
     
    
     ![pavan_tanniru_status](https://github-readme-stats.vercel.app/api?username=pavantanniru)
+    [![pavan tanniru stats](https://github-readme-stats.vercel.app/api?username=pavantanniru)](https://github.com/pavantanniru/github-readme-stats)
     
     
     
