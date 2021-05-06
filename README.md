@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Machine Learning and DeepLearning😎 🦾
-- 🌱 I’m currently learning Web Tech , Selenium 🎭
+- 🌱 I’m currently learning Web Tech , Selenium , AWS EC2  🎭
 - 👯 I’m looking to collaborate on Deeplearning
 - 💬 Ask me about Python,MachineLearning
 - 📫 How to reach me: pa1tanniru1999@gmail.com
