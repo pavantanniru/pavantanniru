@@ -33,7 +33,7 @@
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavantanniru&layout=compact)](https://github.com/pavantanniru/github-readme-stats)
  
     
-    
+   ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
     
     
     
