@@ -37,7 +37,8 @@ Hello There ! my name is pavan tanniru !
   
   <p align="center">
 
-  ![pavan tanniru stats](https://github-readme-stats.vercel.app/api?username=pavantanniru&show_icons=true&theme=cobalt)
+  <img href="https://github-readme-stats.vercel.app/api?username=pavantanniru&show_icons=true&theme=cobalt" alt='pavan-tanniru'>  </img>
+  
   </p>
 
 
