@@ -34,8 +34,11 @@ Hello There ! my name is pavan tanniru !
   
 </p>
   <h1 align="center"> <i class="fas fa-user-tie"></i> Github Status</h1>
+  
+  <p align="center">
 
- ![pavan tanniru stats](https://github-readme-stats.vercel.app/api?username=pavantanniru&show_icons=true&theme=cobalt)
+  ![pavan tanniru stats](https://github-readme-stats.vercel.app/api?username=pavantanniru&show_icons=true&theme=cobalt)
+  </p>
 
 
    <h2 align="center">❤ Lets Get Connected </h2>
