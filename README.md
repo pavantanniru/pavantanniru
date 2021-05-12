@@ -30,8 +30,12 @@ Hello There ! my name is pavan tanniru !
   <img src="https://img.shields.io/badge/heroku%20-%231572B6.svg?&style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
 <!--   <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;  -->
+  
+  
 </p>
+  <h1 align="center">Github Status</h1>
 
+ ![pavan tanniru stats](https://github-readme-stats.vercel.app/api?username=pavantanniru&show_icons=true&theme=cobalt)
 
 
    <h2 align="center">❤ Lets Get Connected </h2>
@@ -48,14 +52,14 @@ Hello There ! my name is pavan tanniru !
     
   <br>
    
-   ![pavan tanniru stats](https://github-readme-stats.vercel.app/api?username=pavantanniru&show_icons=true&theme=cobalt)
+  
    
    <br>
     
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavantanniru&layout=compact)](https://github.com/pavantanniru/github-readme-stats)
+  
  
     
-   ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+  
     
     
     
