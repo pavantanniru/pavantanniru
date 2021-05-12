@@ -11,8 +11,7 @@
 - ⚡ Fun fact: Dribbling wasn't allowed # Basketball Player..🏀
 
 
-     <h1> How to reach me ! </>
-           </br>
+     <h2 style="text-align:center";>How to find Me </h2>
             
        
    
@@ -21,11 +20,10 @@
 </p>
     
    
-    ![pavan tanniru stats](https://github-readme-stats.vercel.app/api?username=pavantanniru&show_icons=true&theme=cobalt)
+   ![pavan tanniru stats](https://github-readme-stats.vercel.app/api?username=pavantanniru&show_icons=true&theme=cobalt)
     
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavantanniru&layout=compact)](https://github.com/pavantanniru/github-readme-stats)
- ...
-    
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavantanniru&layout=compact)](https://github.com/pavantanniru/github-readme-stats)
+ 
     
     
     
