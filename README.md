@@ -17,7 +17,7 @@
 
 
 
-   <h2 style="text-align:center";>❤ Lets Get Connected </h2>
+   <h2 align="center">❤ Lets Get Connected </h2>
            
            
        
