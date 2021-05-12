@@ -1,4 +1,4 @@
-###         <h1 style="text-align:center;"> Hi there ! 👋  I'm Pavan tanniru </h1>
+  <h1 style="text-align:center;"> Hi there ! 👋  I'm Pavan tanniru </h1>
 
    ![](https://komarev.com/ghpvc/?username=pavantanniru&color=blue)
 
@@ -13,7 +13,7 @@
 
      <h2 style="text-align:center";>How to find Me </h2>
            <br>
-           <br>
+           
        
    
   
