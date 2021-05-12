@@ -4,7 +4,7 @@
   
    ![](https://komarev.com/ghpvc/?username=pavantanniru&color=blue)
 
-## I am a Junior Year Student at Sathyabama IST currently undertaking my Bachelors in Computer Science and Engineering.
+## Hello there ! .  I'm currently undertaking my Bachelors in Computer Science and Engineering at Sathyabama University  .
 
 
 
@@ -37,11 +37,11 @@
 </p>
   <h1 align="center"> <i class="fas fa-user-tie"></i> Github Status</h1>
   
-  <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=pavantanniru&layout=compact&hide=html&theme=jolly" alt="pavan_tanniru" />&nbsp;&nbsp;&nbsp;&nbsp;
   
-  </p>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pavantanniru&layout=compact&hide=html&theme=jolly" alt="pavan_tanniru" />&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  
 
 
    <h2 align="center">❤ Lets Get Connected </h2>
