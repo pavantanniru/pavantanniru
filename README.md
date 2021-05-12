@@ -13,7 +13,7 @@
 
 
 
-  <h2 align="center"> 🔭 Technology Stack</h2>
+  <h2 align="center">  💥 Technology Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <!--   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp; -->
@@ -35,7 +35,7 @@
   
   
 </p>
-  <h1 align="center"> <i class="fas fa-user-tie"></i> Github Status</h1>
+  <h1 align="center"> 📔 Github Status</h1>
   
   
 
