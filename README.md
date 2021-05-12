@@ -10,8 +10,12 @@
 - 📫 How to reach me: pa1tanniru1999@gmail.com
 - ⚡ Fun fact: Dribbling wasn't allowed # Basketball Player..🏀
 
+<br>
+<br>
 
-     <h2 style="text-align:center";>How to find Me </h2>
+
+
+   <h2 style="text-align:center";>How to find Me </h2>
            <br>
            
        
