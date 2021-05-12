@@ -1,10 +1,10 @@
   <h1 align="center"> Hi there ! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">  I'm Pavan tanniru </h1>
   
-  <img width="100%" height="6%" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif">
+  <img  src="https://images.unsplash.com/photo-1520962880247-cfaf541c8724?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80">
   
    ![](https://komarev.com/ghpvc/?username=pavantanniru&color=blue)
 
-Hello There ! my name is pavan tanniru ! 
+I am a Junior Year Student at Sathyabama IST currently undertaking my Bachelors in Computer Science and Engineering.
 
 
 
