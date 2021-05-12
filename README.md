@@ -4,7 +4,7 @@
   
    ![](https://komarev.com/ghpvc/?username=pavantanniru&color=blue)
 
-I am a Junior Year Student at Sathyabama IST currently undertaking my Bachelors in Computer Science and Engineering.
+## I am a Junior Year Student at Sathyabama IST currently undertaking my Bachelors in Computer Science and Engineering.
 
 
 
