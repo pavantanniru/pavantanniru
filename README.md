@@ -34,7 +34,7 @@
  
   <a href="https://www.instagram.com/pavan_tanniru/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.kaggle.com/pavantanniru/"><img src="https://miro.medium.com/max/846/0*EcNt1Y_p5njLMX3F">
+ 
   
 </p>
     
