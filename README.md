@@ -35,10 +35,6 @@
  
   
 </p>
-<a href="https://www.kaggle.com/pavantanniru">
-  <img align="left" alt="saketh's kaggle" width="60px" src="https://yanirseroussi.files.wordpress.com/2014/04/kaggle-logo-transparent-300.png" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-    
   <br>
    
   
