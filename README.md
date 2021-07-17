@@ -17,8 +17,7 @@
   <h1 align="center"> 📔 Github Status</h1>
   
   
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pavantanniru&layout=compact&hide=html&theme=jolly" alt="pavan_tanniru" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavantanniru&layout=compact&hide=html&theme=jolly" alt="pavan_tanniru" />&nbsp;&nbsp;&nbsp;&nbsp;
   
   
 
