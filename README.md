@@ -4,7 +4,7 @@
   
    ![](https://komarev.com/ghpvc/?username=pavantanniru&color=blue)
 
-## Hello there ! .  I'm currently undertaking my Bachelors in Computer Science and Engineering at Sathyabama University  .
+## Hola there ! 
 
 
 
